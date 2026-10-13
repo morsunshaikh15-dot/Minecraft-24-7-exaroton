@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "Morsunop.exaroton.me:17546",
+    "port": 17546,
     "version": "1.20.1",
     "try-creative": false
   },
